@@ -11,6 +11,7 @@ Learn the theory of 1.Nf3 and 1.d4 as white.
 - Math
 - Javascript  
 TODO finish exercise on:  
+https://github.com/learning-zone/javascript-coding-practice/blob/main/program-writing.md
 https://github.com/learning-zone/javascript-coding-practice  
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics  
 - English writing
