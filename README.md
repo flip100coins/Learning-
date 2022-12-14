@@ -11,6 +11,6 @@ Learn the theory of 1.Nf3 and 1.d4 as white.
 - Math
 - Javascript  
 TODO finish exercise on:  
-https://learnjavascript.online/app.html  
+https://github.com/learning-zone/javascript-coding-practice  
 - English writing
 - Chinese writing
