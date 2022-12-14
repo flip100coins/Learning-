@@ -10,10 +10,13 @@ TODO:
 Learn the theory of 1.Nf3 and 1.d4 as white.
 - Math
 - Javascript  
-TODO finish exercise on:  
-https://github.com/learning-zone/javascript-coding-practice/blob/main/program-writing.md  
+  1. books  
+  https://github.com/Asabeneh/30-Days-Of-JavaScript  
+  https://eloquentjavascript.net/  
+  https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics  
+  2. exercise  
+  TODO finish exercise on:  
+  https://github.com/learning-zone/javascript-coding-practice/blob/main/program-writing.md  
 https://github.com/learning-zone/javascript-coding-practice  
-https://eloquentjavascript.net/  
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics  
 - English writing
 - Chinese writing
