@@ -17,6 +17,6 @@ Learn the theory of 1.Nf3 and 1.d4 as white.
   2. exercise  
   TODO finish exercise on:  
   https://github.com/learning-zone/javascript-coding-practice/blob/main/program-writing.md  
-https://github.com/learning-zone/javascript-coding-practice  
+  3. started at 2022/12/15  
 - English writing
 - Chinese writing
